@@ -1,4 +1,4 @@
-# ⚽ FIFA Law 11 - Algoritmo de Impedimento
+# ⚽ Football Offside Algorithm (FIFA Law 11)
 
 Este repositório apresenta uma implementação em **Python** do algoritmo de marcação de impedimento, seguindo rigorosamente as regras oficiais do futebol (Lei 11 da International Football Association Board - IFAB / FIFA).
 
